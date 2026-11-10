@@ -1,0 +1,6 @@
+# Course-provided dataset — not redistributed here
+publications_dump.sql
+*.db
+*.sqlite
+__pycache__/
+.DS_Store
